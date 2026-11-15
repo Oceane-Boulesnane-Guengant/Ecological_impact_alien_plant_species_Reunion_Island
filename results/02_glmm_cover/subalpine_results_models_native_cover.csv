@@ -1,0 +1,64 @@
+"model";"effect";"component";"term";"estimate";"std.error";"statistic";"p.value";"group"
+"Agrostis_capillaris";"fixed";"cond";"habitatsubalpine_shrubland";0,923766429214487;0,101198901077061;9,12822589359002;" 6.963e-20";NA
+"Agrostis_capillaris";"fixed";"cond";"habitatsubalpine_thicket";0,683443008253432;0,107106409021791;6,38097210517422;" 1.760e-10";NA
+"Agrostis_capillaris";"fixed";"cond";"cover_IAS_target";-0,0137500239163674;0,00895257836131649;-1,53587305929433;" 1.246e-01";NA
+"Anthoxanthum_odoratum";"fixed";"cond";"habitatsubalpine_grassland";1,17005862209604;0,0257304832509083;45,4736357139633;" 0.000e+00";NA
+"Anthoxanthum_odoratum";"fixed";"cond";"habitatsubalpine_shrubland";0,724881777232199;0,0245244864821209;29,5574701537853;"5.265e-192";NA
+"Anthoxanthum_odoratum";"fixed";"cond";"habitatsubalpine_thicket";0,674214596575255;0,0397504968294825;16,9611615036519;" 1.592e-64";NA
+"Anthoxanthum_odoratum";"fixed";"cond";"ns(cover_IAS_target, 2)1";0,132038951133907;0,0743586378801867;1,77570427455463;" 7.578e-02";NA
+"Anthoxanthum_odoratum";"fixed";"cond";"ns(cover_IAS_target, 2)2";-0,469305646575324;0,0893627808570253;-5,25169026830289;" 1.507e-07";NA
+"Anthoxanthum_odoratum";"fixed";"cond";"cover_IAS_other";-0,0027581484670256;0,000689371000384348;-4,00096387212087;" 6.308e-05";NA
+"Carex_pilulifera";"fixed";"cond";"habitatsubalpine_grassland";1,55058518245104;0,0582075425720769;26,6389047524381;"2.406e-156";NA
+"Carex_pilulifera";"fixed";"cond";"habitatsubalpine_shrubland";1,07265884733226;0,0508929791808771;21,0767548804709;" 1.300e-98";NA
+"Carex_pilulifera";"fixed";"cond";"habitatsubalpine_thicket";0,882433212477002;0,0974094931961789;9,05900629931229;" 1.316e-19";NA
+"Carex_pilulifera";"fixed";"cond";"cover_IAS_other";-0,00597868621762676;0,000965116072627076;-6,1947846349223;" 5.836e-10";NA
+"Danthonia_decumbens";"fixed";"cond";"habitatsubalpine_grassland";1,67318852024764;0,0597060118630024;28,023786349804;"8.338e-173";NA
+"Danthonia_decumbens";"fixed";"cond";"habitatsubalpine_shrubland";1,20823050471962;0,079250462873744;15,2457217397517;" 1.758e-52";NA
+"Danthonia_decumbens";"fixed";"cond";"habitatsubalpine_thicket";0,826751078339654;0,126827220151257;6,51871954107053;" 7.091e-11";NA
+"Danthonia_decumbens";"fixed";"cond";"cover_IAS_target";-0,00218491850603528;0,00216295023083657;-1,01015662537469;" 3.124e-01";NA
+"Danthonia_decumbens";"fixed";"cond";"cover_IAS_other";-0,00749159698892172;0,00107748262395204;-6,95287035019064;" 3.579e-12";NA
+"Danthonia_decumbens";"fixed";"cond";"scale(altitude)";-0,13861367995473;0,0345736015847467;-4,00923460678403;" 6.092e-05";NA
+"Erigeron_karvinskianus";"fixed";"cond";"habitatsubalpine_grassland";0,847292791411;0,0842713131703414;10,0543442309761;" 8.790e-24";NA
+"Erigeron_karvinskianus";"fixed";"cond";"habitatsubalpine_shrubland";0,658374872202006;0,0320564755881238;20,5379680742545;" 9.860e-94";NA
+"Erigeron_karvinskianus";"fixed";"cond";"habitatsubalpine_thicket";0,524238727094692;0,0632936098695324;8,28264856713512;" 1.205e-16";NA
+"Erigeron_karvinskianus";"fixed";"cond";"ns(cover_IAS_target, 2)1";0,181428163784688;0,172583712239426;1,05124731314733;" 2.931e-01";NA
+"Erigeron_karvinskianus";"fixed";"cond";"ns(cover_IAS_target, 2)2";-0,360981730469975;0,174579370408816;-2,06772271903981;" 3.867e-02";NA
+"Erigeron_karvinskianus";"fixed";"cond";"cover_IAS_other";-0,00135194135728774;0,000802721533353145;-1,68419719804997;" 9.214e-02";NA
+"Fragaria_vesca";"fixed";"cond";"habitatsubalpine_grassland";13,9340089256439;3,11459902124796;4,47377297385165;" 7.685e-06";NA
+"Fragaria_vesca";"fixed";"cond";"habitatsubalpine_shrubland";4,95502119863532;1,48482682363976;3,33710377516554;" 8.466e-04";NA
+"Fragaria_vesca";"fixed";"cond";"habitatsubalpine_thicket";3,14778072173027;2,32148504472313;1,35593409437867;" 1.751e-01";NA
+"Hypochaeris_radicata";"fixed";"cond";"habitatsubalpine_grassland";1,12138339089289;0,0198291027571793;56,5524020236809;" 0.000e+00";NA
+"Hypochaeris_radicata";"fixed";"cond";"habitatsubalpine_shrubland";0,752594674657772;0,0177968170482746;42,2881615637409;" 0.000e+00";NA
+"Hypochaeris_radicata";"fixed";"cond";"habitatsubalpine_thicket";0,542407537053814;0,0443802811015814;12,221813913533;" 2.377e-34";NA
+"Hypochaeris_radicata";"fixed";"cond";"ns(cover_IAS_target, 2)1";0,539398520991803;0,0998658906546744;5,4012287624509;" 6.619e-08";NA
+"Hypochaeris_radicata";"fixed";"cond";"ns(cover_IAS_target, 2)2";-0,860299588511792;0,194263048259637;-4,42852923507089;" 9.488e-06";NA
+"Hypochaeris_radicata";"fixed";"cond";"cover_IAS_other";-0,00183070251043862;0,000480007480582333;-3,8139041254475;" 1.368e-04";NA
+"Luzula_campestris";"fixed";"cond";"habitatsubalpine_grassland";1,27019991942968;0,0426940690473784;29,7512031008361;"1.673e-194";NA
+"Luzula_campestris";"fixed";"cond";"habitatsubalpine_shrubland";0,921817743060792;0,0505957133307076;18,2192854370001;" 3.629e-74";NA
+"Luzula_campestris";"fixed";"cond";"habitatsubalpine_thicket";0,774555391816953;0,117416919674024;6,59662503468234;" 4.206e-11";NA
+"Luzula_campestris";"fixed";"cond";"cover_IAS_other";-0,00309904036175501;0,00078285892752278;-3,9586191749277;" 7.538e-05";NA
+"Plantago_lanceolata";"fixed";"cond";"habitatsubalpine_grassland";0,908636296529797;0,0791118811402955;11,4854593701095;" 1.561e-30";NA
+"Plantago_lanceolata";"fixed";"cond";"habitatsubalpine_shrubland";0,636300174950156;0,101800319089518;6,25047328575293;" 4.092e-10";NA
+"Plantago_lanceolata";"fixed";"cond";"habitatsubalpine_thicket";0,703307808339678;0,338057512596551;2,08043833410982;" 3.749e-02";NA
+"Plantago_lanceolata";"fixed";"cond";"cover_IAS_target";-0,00739479963294187;0,00485040824279139;-1,52457262621799;" 1.274e-01";NA
+"Plantago_lanceolata";"fixed";"cond";"scale(altitude)";-0,0888159937201841;0,0617400067731845;-1,43854849330466;" 1.503e-01";NA
+"Prunella_vulgaris";"fixed";"cond";"habitatsubalpine_grassland";0,824479570979712;0,105770532335788;7,79498365728412;" 6.442e-15";NA
+"Prunella_vulgaris";"fixed";"cond";"habitatsubalpine_shrubland";0,83306096755925;0,0393849393986115;21,1517646156038;" 2.658e-99";NA
+"Prunella_vulgaris";"fixed";"cond";"habitatsubalpine_thicket";0,735040922782965;0,0738095672323762;9,95861309508591;" 2.313e-23";NA
+"Prunella_vulgaris";"fixed";"cond";"cover_IAS_target";0,0080910768958698;0,00519277405734808;1,55814152638135;" 1.192e-01";NA
+"Prunella_vulgaris";"fixed";"cond";"cover_IAS_other";-0,00245757945860275;0,000785486463451048;-3,12873559628937;" 1.756e-03";NA
+"Poa_pratensis";"fixed";"cond";"habitatsubalpine_grassland";14,4906952624352;2,51262407558482;5,76715609917194;" 8.062e-09";NA
+"Poa_pratensis";"fixed";"cond";"habitatsubalpine_shrubland";12,8592297024232;8,96340414227042;1,4346368297487;" 1.514e-01";NA
+"Poa_pratensis";"fixed";"cond";"scale(altitude)";-4,79484816311711;2,54426073748591;-1,88457420753783;" 5.949e-02";NA
+"Rumex_acetosella";"fixed";"cond";"habitatsubalpine_grassland";0,738341589557699;0,0631998730026955;11,6826435636383;" 1.564e-31";NA
+"Rumex_acetosella";"fixed";"cond";"habitatsubalpine_shrubland";1,03643939067678;0,204516118078012;5,06776385361192;" 4.025e-07";NA
+"Rumex_acetosella";"fixed";"cond";"scale(altitude)";0,0977120363921564;0,0645584240459725;1,51354432571921;" 1.301e-01";NA
+"Ulex_europaeus";"fixed";"cond";"habitatsubalpine_grassland";0,291742851547608;0,31210347617351;0,93476322380151;" 3.499e-01";NA
+"Ulex_europaeus";"fixed";"cond";"habitatsubalpine_shrubland";0,704544912080033;0,0632174090319626;11,1447925954039;" 7.592e-29";NA
+"Ulex_europaeus";"fixed";"cond";"habitatsubalpine_thicket";0,481881783704389;0,0777784456396549;6,19556973325145;" 5.807e-10";NA
+"Ulex_europaeus";"fixed";"cond";"stratashrub";0,928818641978979;0,0795891358825637;11,6701686942484;" 1.811e-31";NA
+"Ulex_europaeus";"fixed";"cond";"cover_IAS_other";0,00378773856616771;0,00234151681000086;1,61764312346163;" 1.057e-01";NA
+"Ulex_europaeus";"fixed";"cond";"strataherb:cover_IAS_target";-0,00486032051277578;0,00613336081482857;-0,792440011196639;" 4.281e-01";NA
+"Ulex_europaeus";"fixed";"cond";"stratashrub:cover_IAS_target";0,00211497429124903;0,00123319705133469;1,71503352928066;" 8.634e-02";NA
+"Ulex_europaeus";"ran_pars";"cond";"sd__(Intercept)";0,133511459425837;NA;NA;"        NA";"unique_id"
+"Ulex_europaeus";"ran_pars";"cond";"sd__Observation";0,360562354692716;NA;NA;"        NA";"Residual"
