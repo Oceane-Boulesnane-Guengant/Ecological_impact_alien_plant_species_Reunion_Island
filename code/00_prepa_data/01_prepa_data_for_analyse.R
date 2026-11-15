@@ -4,6 +4,12 @@
 # Date : 2025/11/29
 
 
+# Library -----------------------------------------------------------------
+source("code/library.R")
+
+# -------------------------------------------------------------------------
+
+
 
 # Importation data --------------------------------------------------------
 di_esp <- read.csv("data/01_di_simplified_sp.csv", header = T, sep = ";", dec = ",")
@@ -31,6 +37,7 @@ data_native$cd_ref <- "native"
 data_native$name_sp <- "native"
 
 ## Add native species data to alien species ----
+di_esp <- di_esp |> select(-EICAT_max)
 data_analyse <- rbind(di_esp, data_native)
 
 ### Delete line with cover == 0
